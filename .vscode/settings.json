@@ -1,0 +1,6 @@
+{
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "editor.fontSize": 24,
+    "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true
+}
